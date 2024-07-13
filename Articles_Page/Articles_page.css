@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.home-page-bg-container {
+    background-color: #225db0;
+    height: 100vh;
+    width: 100vw;
+}
+
+.empower-heading {
+    font-family: "Roboto";
+    font-size: 25px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-top: 40px;
+    padding-left: 25px;
+}
+
+.empower-paragraph {
+    font-family: "Roboto";
+    font-size: 13px;
+    color: #ffffff;
+    font-weight: 500;
+    padding-left: 25px;
+    padding-right: 70px;
+}
+
+.technology-image-bg-container {
+    background-color: #ffffff;
+    height: 85px;
+    width: 115px;
+    border-radius: 8px;
+    margin-top: 13px;
+    margin-left: 18px;
+}
+
+.technology-image {
+    height: 30px;
+    width: 30px;
+    margin-top: 12px;
+    margin-left: 45px;
+}
+
+.technology-description {
+    font-size: 13px;
+    font-family: "ROboto";
+    font-weight: 500;
+    text-align: center;
+    color: #1f2933;
+    padding-top: 10px;
+}
+
+.home-page-bg-container1 {
+    background-color: #225db0;
+    width: 100vw;
+}
+
+.carousels {
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-left: 20px;
+    padding-right: 35px;
+    padding-bottom: 15px;
+}
+
+.list-of-topics-heading {
+    font-size: 20px;
+    font-family: "Roboto";
+    color: #ffffff;
+    font-weight: 500;
+    padding-top: 8px;
+    padding-left: 22px;
+}
+
+.unordered-list-headings {
+    padding: 10px;
+    color: #ffffff;
+    font-size: 14px;
+    font-family: "Roboto";
+    font-weight: 500;
+}
+
+.button {
+    height: 18px;
+    width: 40px;
+    background-color: #225db0;
+    border-color: #ffffff;
+    border-width: 1px;
+    font-size: 9px;
+    font-family: "Roboto";
+    color: #ffffff;
+    margin-bottom: 25px;
+}
