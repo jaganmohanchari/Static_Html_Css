@@ -1,0 +1,104 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.yoga-home-page-bg-container {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    background-size: cover;
+
+}
+
+.yoga-home-page-heading {
+    color: #132d84;
+    font-family: "Roboto";
+    font-weight: Bolder;
+    font-size: 20px;
+    text-align: center;
+    padding: 50px;
+}
+
+.yoga-girl-image {
+    height: 220px;
+    width: 220px;
+    margin-top: 55px;
+}
+
+.yoga-home-page-paragraph {
+    color: #253263;
+    font-size: 14px;
+    font-family: "Roboto";
+    text-align: center;
+    font-weight: 600;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.yoga-home-page-button {
+    background-color: #132d84;
+    height: 28px;
+    width: 70px;
+    border-radius: 3px;
+    border-width: 0px;
+    color: #ffedcb;
+    font-size: 10px;
+    font-weight: 500;
+    font-family: "Roboto";
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.Types-of-yoga-girls-bg-container {
+    background-color: #ffedcb;
+}
+
+.Types-of-yoga-girls-image {
+    height: 180px;
+    width: 195px;
+    margin-top: 25px;
+}
+
+.Types-of-yoga-girls-heading {
+    font-size: 22px;
+    font-weight: 500;
+    font-family: "Roboto";
+    color: #132d84;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.girls-images-bg-container {
+    background-color: #ffe2ab;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border-width: 0px;
+}
+
+.yoga-girl-image1 {
+    height: 70px;
+    width: 70px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.Acro-yoga-text-container {
+    padding: 15px;
+}
+
+.Acro-yoga-heading {
+    font-size: 15px;
+    font-weight: 500;
+    font-family: "Roboto";
+    color: #132d84;
+}
+
+.Acro-yoga-paragraph {
+    font-size: 11px;
+    font-weight: 500;
+    font-family: "Roboto";
+    color: #132d84;
+}
+
+.yoga-home-page-button1 {
+    margin-top: 15px;
+}
